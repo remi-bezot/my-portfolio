@@ -1,0 +1,1 @@
+import './style.css'; // Chemin vers votre fichier CSS

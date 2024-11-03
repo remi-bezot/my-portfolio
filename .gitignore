@@ -1,0 +1,13 @@
+# Node modules (pour les dépendances JavaScript)
+node_modules/
+
+# Cache, build et fichiers de configuration locaux
+dist/
+build/
+coverage/
+*.log
+
+package.json
+yarn.lock
+.babelrc
+webpack.config.js
